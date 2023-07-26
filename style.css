@@ -1,0 +1,36 @@
+body{
+    background-color:#FBF9F4;
+}
+.nav-bg{
+    background-color: #FFFFFF;
+    color: #26363E;
+}
+.t-color{
+    color: #B62B30;
+}
+.content{
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    height: 329px;
+    width: 530px;
+    margin-top: 182px;
+}
+.fcontainer {
+   
+      margin-left: 10px; 
+  }
+.footer1{
+    height: 43px;
+    flex-shrink: 0;
+    background-color: #FFFFFF;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer1 a {
+    text-decoration: none;
+    margin: 10px;
+    text-align: center;
+  }
